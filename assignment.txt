@@ -1,0 +1,27 @@
+Scrape Cricinfo:
+
+Cricinfo provides a json containing match related details for each match id.
+The format for the url is https://www.espncricinfo.com/matches/engine/match/{match_id}.json 
+
+Part 1:
+1. Download the json for any given match id.
+2. Convert contents of the json into a csv file with given fields.
+Each row in csv has a primary key of (player, match_id)
+
+Fields:
+1. match_id
+2. Date (dd/mm/yyyy format preferably)- start_date_raw
+3. ground_id
+4. home_team_id
+5. home_team_name
+6. away_team_id	
+7. away_team_name
+8. player_name
+9. player_id (known as object_id)
+10. team_id  (Team id of the player)
+11. bowling_style
+12. batting_style
+
+Part 2:
+Get data for all matches in a season and convert them into csv as in Part 1.
+An example season link is : https://www.espncricinfo.com/series/ipl-2020-21-1210595/match-results

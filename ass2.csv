@@ -1,0 +1,1321 @@
+,match_id,Date,ground_id,home_team_id,home_team_name,away_team_id,away_team_name,player_name,player_id,team_id,bowling_style,batting_style
+0,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Marcus Stoinis,325012,4344,rm,rhb
+1,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Shikhar Dhawan,28235,4344,ob,lhb
+2,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Ajinkya Rahane,277916,4344,rm,rhb
+3,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Shreyas Iyer,642519,4344,lbg,rhb
+4,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Rishabh Pant,931581,4344,,lhb
+5,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Shimron Hetmyer,670025,4344,,lhb
+6,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Axar Patel,554691,4344,sla,lhb
+7,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Kagiso Rabada,550215,4344,rf,lhb
+8,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Praveen Dubey,777515,4344,lbg,rhb
+9,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Ravichandran Ashwin,26421,4344,ob,rhb
+10,1237181,2020-11-10,2439,0,Delhi Capitals,0,Mumbai Indians,Anrich Nortje,481979,4344,rf,rhb
+11,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Rohit Sharma,34102,4346,ob,rhb
+12,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Quinton de Kock,379143,4346,,lhb
+13,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+14,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Ishan Kishan,720471,4346,,lhb
+15,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Kieron Pollard,230559,4346,rm,rhb
+16,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Hardik Pandya,625371,4346,rmf,rhb
+17,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Krunal Pandya,471342,4346,sla,lhb
+18,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Jayant Yadav,447587,4346,ob,rhb
+19,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Nathan Coulter-Nile,261354,4346,rf,rhb
+20,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Trent Boult,277912,4346,lfm,rhb
+21,1237181,2020-11-10,2439,0,Mumbai Indians,0,Delhi Capitals,Jasprit Bumrah,625383,4346,rf,rhb
+22,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Marcus Stoinis,325012,4344,rm,rhb
+23,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shikhar Dhawan,28235,4344,ob,lhb
+24,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shreyas Iyer,642519,4344,lbg,rhb
+25,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shimron Hetmyer,670025,4344,,lhb
+26,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Rishabh Pant,931581,4344,,lhb
+27,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Ajinkya Rahane,277916,4344,rm,rhb
+28,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Praveen Dubey,777515,4344,lbg,rhb
+29,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Axar Patel,554691,4344,sla,lhb
+30,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Ravichandran Ashwin,26421,4344,ob,rhb
+31,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Kagiso Rabada,550215,4344,rf,lhb
+32,1237180,2020-11-08,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Anrich Nortje,481979,4344,rf,rhb
+33,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Priyam Garg,1070180,5143,rm,rhb
+34,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,David Warner,219889,5143,lb,lhb
+35,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Manish Pandey,290630,5143,rm,rhb
+36,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Kane Williamson,277906,5143,ob,rhb
+37,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Jason Holder,391485,5143,rmf,rhb
+38,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Abdul Samad,1175485,5143,lb,rhb
+39,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Rashid Khan,793463,5143,lbg,rhb
+40,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Shreevats Goswami,302579,5143,,lhb
+41,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Shahbaz Nadeem,31872,5143,sla,rhb
+42,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Sandeep Sharma,438362,5143,rm,rhb
+43,1237180,2020-11-08,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,T Natarajan,802575,5143,lm,lhb
+44,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Virat Kohli,253802,4340,rm,rhb
+45,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Devdutt Padikkal,1119026,4340,ob,lhb
+46,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Aaron Finch,5334,4340,sla,rhb
+47,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,AB de Villiers,44936,4340,rm,rhb
+48,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Moeen Ali,8917,4340,ob,lhb
+49,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Shivam Dube,714451,4340,rm,lhb
+50,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Washington Sundar,719715,4340,ob,lhb
+51,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Navdeep Saini,700167,4340,rf,rhb
+52,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Mohammed Siraj,940973,4340,rmf,rhb
+53,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Yuzvendra Chahal,430246,4340,lbg,rhb
+54,1237178,2020-11-06,1965,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Adam Zampa,379504,4340,lbg,rhb
+55,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,David Warner,219889,5143,lb,lhb
+56,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Shreevats Goswami,302579,5143,,lhb
+57,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Manish Pandey,290630,5143,rm,rhb
+58,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Kane Williamson,277906,5143,ob,rhb
+59,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Priyam Garg,1070180,5143,rm,rhb
+60,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Jason Holder,391485,5143,rmf,rhb
+61,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Abdul Samad,1175485,5143,lb,rhb
+62,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Rashid Khan,793463,5143,lbg,rhb
+63,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Shahbaz Nadeem,31872,5143,sla,rhb
+64,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Sandeep Sharma,438362,5143,rm,rhb
+65,1237178,2020-11-06,1965,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,T Natarajan,802575,5143,lm,lhb
+66,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Prithvi Shaw,1070168,4344,ob,rhb
+67,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Shikhar Dhawan,28235,4344,ob,lhb
+68,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Ajinkya Rahane,277916,4344,rm,rhb
+69,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Shreyas Iyer,642519,4344,lbg,rhb
+70,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Marcus Stoinis,325012,4344,rm,rhb
+71,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Rishabh Pant,931581,4344,,lhb
+72,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Axar Patel,554691,4344,sla,lhb
+73,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Daniel Sams,826901,4344,lfm,rhb
+74,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Kagiso Rabada,550215,4344,rf,lhb
+75,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Anrich Nortje,481979,4344,rf,rhb
+76,1237177,2020-11-05,2439,0,Delhi Capitals,0,Mumbai Indians,Ravichandran Ashwin,26421,4344,ob,rhb
+77,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Quinton de Kock,379143,4346,,lhb
+78,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Rohit Sharma,34102,4346,ob,rhb
+79,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+80,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Ishan Kishan,720471,4346,,lhb
+81,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Kieron Pollard,230559,4346,rm,rhb
+82,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Krunal Pandya,471342,4346,sla,lhb
+83,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Hardik Pandya,625371,4346,rmf,rhb
+84,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Nathan Coulter-Nile,261354,4346,rf,rhb
+85,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Trent Boult,277912,4346,lfm,rhb
+86,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Rahul Chahar,1064812,4346,lbg,rhb
+87,1237177,2020-11-05,2439,0,Mumbai Indians,0,Delhi Capitals,Jasprit Bumrah,625383,4346,rf,rhb
+88,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,David Warner,219889,5143,lb,lhb
+89,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Wriddhiman Saha,279810,5143,,rhb
+90,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Manish Pandey,290630,5143,rm,rhb
+91,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Kane Williamson,277906,5143,ob,rhb
+92,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Priyam Garg,1070180,5143,rm,rhb
+93,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Jason Holder,391485,5143,rmf,rhb
+94,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Abdul Samad,1175485,5143,lb,rhb
+95,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Rashid Khan,793463,5143,lbg,rhb
+96,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Shahbaz Nadeem,31872,5143,sla,rhb
+97,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Sandeep Sharma,438362,5143,rm,rhb
+98,1216495,2020-11-03,848,0,Sunrisers Hyderabad,0,Mumbai Indians,T Natarajan,802575,5143,lm,lhb
+99,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Rohit Sharma,34102,4346,ob,rhb
+100,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Quinton de Kock,379143,4346,,lhb
+101,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Suryakumar Yadav,446507,4346,rm/ob,rhb
+102,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Ishan Kishan,720471,4346,,lhb
+103,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Krunal Pandya,471342,4346,sla,lhb
+104,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Saurabh Tiwary,35390,4346,,lhb
+105,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Kieron Pollard,230559,4346,rm,rhb
+106,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Nathan Coulter-Nile,261354,4346,rf,rhb
+107,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,James Pattinson,272465,4346,rfm,lhb
+108,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Dhawal Kulkarni,277955,4346,rm,rhb
+109,1216495,2020-11-03,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Rahul Chahar,1064812,4346,lbg,rhb
+110,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Prithvi Shaw,1070168,4344,ob,rhb
+111,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Shikhar Dhawan,28235,4344,ob,lhb
+112,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Ajinkya Rahane,277916,4344,rm,rhb
+113,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Shreyas Iyer,642519,4344,lbg,rhb
+114,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Rishabh Pant,931581,4344,,lhb
+115,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Marcus Stoinis,325012,4344,rm,rhb
+116,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Axar Patel,554691,4344,sla,lhb
+117,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Daniel Sams,826901,4344,lfm,rhb
+118,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Ravichandran Ashwin,26421,4344,ob,rhb
+119,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Kagiso Rabada,550215,4344,rf,lhb
+120,1216505,2020-11-02,1965,0,Delhi Capitals,0,Royal Challengers Bangalore,Anrich Nortje,481979,4344,rf,rhb
+121,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Josh Philippe,1124282,4340,,rhb
+122,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Devdutt Padikkal,1119026,4340,ob,lhb
+123,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Virat Kohli,253802,4340,rm,rhb
+124,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,AB de Villiers,44936,4340,rm,rhb
+125,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Chris Morris,439952,4340,rfm,rhb
+126,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Shivam Dube,714451,4340,rm,lhb
+127,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Washington Sundar,719715,4340,ob,lhb
+128,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Isuru Udana,328026,4340,lmf,rhb
+129,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Shahbaz Ahmed,1159711,4340,sla,lhb
+130,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Mohammed Siraj,940973,4340,rmf,rhb
+131,1216505,2020-11-02,1965,0,Royal Challengers Bangalore,0,Delhi Capitals,Yuzvendra Chahal,430246,4340,lbg,rhb
+132,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Shubman Gill,1070173,4341,ob,rhb
+133,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Nitish Rana,604527,4341,ob,lhb
+134,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Rahul Tripathi,446763,4341,rm,rhb
+135,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Sunil Narine,230558,4341,ob,lhb
+136,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Eoin Morgan,24598,4341,rm,lhb
+137,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Dinesh Karthik,30045,4341,ob,rhb
+138,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Andre Russell,276298,4341,rf,rhb
+139,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Pat Cummins,489889,4341,rf,rhb
+140,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+141,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Shivam Mavi,1079848,4341,rfm,rhb
+142,1216530,2020-11-01,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Varun Chakravarthy,1108375,4341,lbg,rhb
+143,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Robin Uthappa,35582,4345,rm,rhb
+144,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Ben Stokes,311158,4345,rfm,lhb
+145,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Steven Smith,267192,4345,lbg,rhb
+146,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Sanju Samson,425943,4345,,rhb
+147,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Jos Buttler,308967,4345,,rhb
+148,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Riyan Parag,1079434,4345,lb,rhb
+149,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Rahul Tewatia,423838,4345,lb,lhb
+150,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Shreyas Gopal,344580,4345,lb,rhb
+151,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Jofra Archer,669855,4345,rf,rhb
+152,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Kartik Tyagi,1122918,4345,rmf,rhb
+153,1216530,2020-11-01,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Varun Aaron,360911,4345,rf,rhb
+154,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Ruturaj Gaikwad,1060380,4343,ob,rhb
+155,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Faf du Plessis,44828,4343,lb,rhb
+156,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Ambati Rayudu,33141,4343,ob,rhb
+157,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,MS Dhoni,28081,4343,rm,rhb
+158,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Narayan Jagadeesan,1048813,4343,,rhb
+159,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Sam Curran,662973,4343,lmf,lhb
+160,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Ravindra Jadeja,234675,4343,sla,lhb
+161,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Deepak Chahar,447261,4343,rm,rhb
+162,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Shardul Thakur,475281,4343,rm,rhb
+163,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Lungi Ngidi,542023,4343,rfm,rhb
+164,1216506,2020-11-01,1965,0,Chennai Super Kings,0,Kings XI Punjab,Imran Tahir,40618,4343,lbg,rhb
+165,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,KL Rahul,422108,4342,,rhb
+166,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Mayank Agarwal,398438,4342,ob,rhb
+167,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Chris Gayle,51880,4342,ob,lhb
+168,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Nicholas Pooran,604302,4342,,lhb
+169,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Mandeep Singh,398506,4342,rm,rhb
+170,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Deepak Hooda,497121,4342,ob,rhb
+171,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,James Neesham,355269,4342,rmf,lhb
+172,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Chris Jordan,288992,4342,rfm,rhb
+173,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Murugan Ashwin,528067,4342,lbg,rhb
+174,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Ravi Bishnoi,1175441,4342,lbg,rhb
+175,1216506,2020-11-01,1965,0,Kings XI Punjab,0,Chennai Super Kings,Mohammed Shami,481896,4342,rf,rhb
+176,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Josh Philippe,1124282,4340,,rhb
+177,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Devdutt Padikkal,1119026,4340,ob,lhb
+178,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Virat Kohli,253802,4340,rm,rhb
+179,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,AB de Villiers,44936,4340,rm,rhb
+180,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Washington Sundar,719715,4340,ob,lhb
+181,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Gurkeerat Singh Mann,537124,4340,ob,rhb
+182,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Chris Morris,439952,4340,rfm,rhb
+183,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Isuru Udana,328026,4340,lmf,rhb
+184,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Mohammed Siraj,940973,4340,rmf,rhb
+185,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Navdeep Saini,700167,4340,rf,rhb
+186,1216502,2020-10-31,848,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Yuzvendra Chahal,430246,4340,lbg,rhb
+187,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,David Warner,219889,5143,lb,lhb
+188,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Wriddhiman Saha,279810,5143,,rhb
+189,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Manish Pandey,290630,5143,rm,rhb
+190,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Kane Williamson,277906,5143,ob,rhb
+191,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Abhishek Sharma,1070183,5143,sla,lhb
+192,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Jason Holder,391485,5143,rmf,rhb
+193,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Abdul Samad,1175485,5143,lb,rhb
+194,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Rashid Khan,793463,5143,lbg,rhb
+195,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Shahbaz Nadeem,31872,5143,sla,rhb
+196,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Sandeep Sharma,438362,5143,rm,rhb
+197,1216502,2020-10-31,848,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,T Natarajan,802575,5143,lm,lhb
+198,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Prithvi Shaw,1070168,4344,ob,rhb
+199,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Shikhar Dhawan,28235,4344,ob,lhb
+200,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Shreyas Iyer,642519,4344,lbg,rhb
+201,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Rishabh Pant,931581,4344,,lhb
+202,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Marcus Stoinis,325012,4344,rm,rhb
+203,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Shimron Hetmyer,670025,4344,,lhb
+204,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Harshal Patel,390481,4344,rm,rhb
+205,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Ravichandran Ashwin,26421,4344,ob,rhb
+206,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Praveen Dubey,777515,4344,lbg,rhb
+207,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Kagiso Rabada,550215,4344,rf,lhb
+208,1216535,2020-10-31,2439,0,Delhi Capitals,0,Mumbai Indians,Anrich Nortje,481979,4344,rf,rhb
+209,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Ishan Kishan,720471,4346,,lhb
+210,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Quinton de Kock,379143,4346,,lhb
+211,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+212,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Saurabh Tiwary,35390,4346,,lhb
+213,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Krunal Pandya,471342,4346,sla,lhb
+214,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Kieron Pollard,230559,4346,rm,rhb
+215,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Nathan Coulter-Nile,261354,4346,rf,rhb
+216,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Jayant Yadav,447587,4346,ob,rhb
+217,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Rahul Chahar,1064812,4346,lbg,rhb
+218,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Trent Boult,277912,4346,lfm,rhb
+219,1216535,2020-10-31,2439,0,Mumbai Indians,0,Delhi Capitals,Jasprit Bumrah,625383,4346,rf,rhb
+220,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,KL Rahul,422108,4342,,rhb
+221,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Mandeep Singh,398506,4342,rm,rhb
+222,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Chris Gayle,51880,4342,ob,lhb
+223,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Nicholas Pooran,604302,4342,,lhb
+224,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Glenn Maxwell,325026,4342,ob,rhb
+225,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Deepak Hooda,497121,4342,ob,rhb
+226,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Chris Jordan,288992,4342,rfm,rhb
+227,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Murugan Ashwin,528067,4342,lbg,rhb
+228,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Ravi Bishnoi,1175441,4342,lbg,rhb
+229,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Mohammed Shami,481896,4342,rf,rhb
+230,1216537,2020-10-30,1965,0,Kings XI Punjab,0,Rajasthan Royals,Arshdeep Singh,1125976,4342,lmf,lhb
+231,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Robin Uthappa,35582,4345,rm,rhb
+232,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Ben Stokes,311158,4345,rfm,lhb
+233,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Sanju Samson,425943,4345,,rhb
+234,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Steven Smith,267192,4345,lbg,rhb
+235,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Jos Buttler,308967,4345,,rhb
+236,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Riyan Parag,1079434,4345,lb,rhb
+237,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Rahul Tewatia,423838,4345,lb,lhb
+238,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Jofra Archer,669855,4345,rf,rhb
+239,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Shreyas Gopal,344580,4345,lb,rhb
+240,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Kartik Tyagi,1122918,4345,rmf,rhb
+241,1216537,2020-10-30,1965,0,Rajasthan Royals,0,Kings XI Punjab,Varun Aaron,360911,4345,rf,rhb
+242,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Shane Watson,8180,4343,rfm,rhb
+243,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Ruturaj Gaikwad,1060380,4343,ob,rhb
+244,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Ambati Rayudu,33141,4343,ob,rhb
+245,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,MS Dhoni,28081,4343,rm,rhb
+246,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Sam Curran,662973,4343,lmf,lhb
+247,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Ravindra Jadeja,234675,4343,sla,lhb
+248,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Narayan Jagadeesan,1048813,4343,,rhb
+249,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Mitchell Santner,502714,4343,sla,lhb
+250,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Deepak Chahar,447261,4343,rm,rhb
+251,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Karn Sharma,30288,4343,lbg,lhb
+252,1216536,2020-10-29,2439,0,Chennai Super Kings,0,Kolkata Knight Riders,Lungi Ngidi,542023,4343,rfm,rhb
+253,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Shubman Gill,1070173,4341,ob,rhb
+254,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Nitish Rana,604527,4341,ob,lhb
+255,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Sunil Narine,230558,4341,ob,lhb
+256,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Rinku Singh,723105,4341,ob,lhb
+257,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Eoin Morgan,24598,4341,rm,lhb
+258,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Dinesh Karthik,30045,4341,ob,rhb
+259,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Rahul Tripathi,446763,4341,rm,rhb
+260,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+261,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Pat Cummins,489889,4341,rf,rhb
+262,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Lockie Ferguson,493773,4341,rf,rhb
+263,1216536,2020-10-29,2439,0,Kolkata Knight Riders,0,Chennai Super Kings,Varun Chakravarthy,1108375,4341,lbg,rhb
+264,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Quinton de Kock,379143,4346,,lhb
+265,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Ishan Kishan,720471,4346,,lhb
+266,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Suryakumar Yadav,446507,4346,rm/ob,rhb
+267,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Saurabh Tiwary,35390,4346,,lhb
+268,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Krunal Pandya,471342,4346,sla,lhb
+269,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Hardik Pandya,625371,4346,rmf,rhb
+270,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Kieron Pollard,230559,4346,rm,rhb
+271,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,James Pattinson,272465,4346,rfm,lhb
+272,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Rahul Chahar,1064812,4346,lbg,rhb
+273,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Trent Boult,277912,4346,lfm,rhb
+274,1216499,2020-10-28,1965,0,Mumbai Indians,0,Royal Challengers Bangalore,Jasprit Bumrah,625383,4346,rf,rhb
+275,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Josh Philippe,1124282,4340,,rhb
+276,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Devdutt Padikkal,1119026,4340,ob,lhb
+277,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Virat Kohli,253802,4340,rm,rhb
+278,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,AB de Villiers,44936,4340,rm,rhb
+279,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Shivam Dube,714451,4340,rm,lhb
+280,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Chris Morris,439952,4340,rfm,rhb
+281,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Gurkeerat Singh Mann,537124,4340,ob,rhb
+282,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Washington Sundar,719715,4340,ob,lhb
+283,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Yuzvendra Chahal,430246,4340,lbg,rhb
+284,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Mohammed Siraj,940973,4340,rmf,rhb
+285,1216499,2020-10-28,1965,0,Royal Challengers Bangalore,0,Mumbai Indians,Dale Steyn,47492,4340,rf,rhb
+286,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,David Warner,219889,5143,lb,lhb
+287,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Wriddhiman Saha,279810,5143,,rhb
+288,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Manish Pandey,290630,5143,rm,rhb
+289,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Kane Williamson,277906,5143,ob,rhb
+290,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Vijay Shankar,477021,5143,rm,rhb
+291,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Abdul Samad,1175485,5143,lb,rhb
+292,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Jason Holder,391485,5143,rmf,rhb
+293,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Rashid Khan,793463,5143,lbg,rhb
+294,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Sandeep Sharma,438362,5143,rm,rhb
+295,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,T Natarajan,802575,5143,lm,lhb
+296,1216524,2020-10-27,2439,0,Sunrisers Hyderabad,0,Delhi Capitals,Shahbaz Nadeem,31872,5143,sla,rhb
+297,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Ajinkya Rahane,277916,4344,rm,rhb
+298,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Shikhar Dhawan,28235,4344,ob,lhb
+299,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Marcus Stoinis,325012,4344,rm,rhb
+300,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Shimron Hetmyer,670025,4344,,lhb
+301,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Rishabh Pant,931581,4344,,lhb
+302,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Shreyas Iyer,642519,4344,lbg,rhb
+303,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Axar Patel,554691,4344,sla,lhb
+304,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Kagiso Rabada,550215,4344,rf,lhb
+305,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Ravichandran Ashwin,26421,4344,ob,rhb
+306,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Tushar Deshpande,822553,4344,rm,lhb
+307,1216524,2020-10-27,2439,0,Delhi Capitals,0,Sunrisers Hyderabad,Anrich Nortje,481979,4344,rf,rhb
+308,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Shubman Gill,1070173,4341,ob,rhb
+309,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Nitish Rana,604527,4341,ob,lhb
+310,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Rahul Tripathi,446763,4341,rm,rhb
+311,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Dinesh Karthik,30045,4341,ob,rhb
+312,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Eoin Morgan,24598,4341,rm,lhb
+313,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Sunil Narine,230558,4341,ob,lhb
+314,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+315,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Pat Cummins,489889,4341,rf,rhb
+316,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Lockie Ferguson,493773,4341,rf,rhb
+317,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Varun Chakravarthy,1108375,4341,lbg,rhb
+318,1216520,2020-10-26,848,0,Kolkata Knight Riders,0,Kings XI Punjab,Prasidh Krishna,917159,4341,rmf,rhb
+319,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,KL Rahul,422108,4342,,rhb
+320,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Mandeep Singh,398506,4342,rm,rhb
+321,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Chris Gayle,51880,4342,ob,lhb
+322,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Nicholas Pooran,604302,4342,,lhb
+323,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Glenn Maxwell,325026,4342,ob,rhb
+324,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Deepak Hooda,497121,4342,ob,rhb
+325,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Chris Jordan,288992,4342,rfm,rhb
+326,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Murugan Ashwin,528067,4342,lbg,rhb
+327,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Ravi Bishnoi,1175441,4342,lbg,rhb
+328,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Mohammed Shami,481896,4342,rf,rhb
+329,1216520,2020-10-26,848,0,Kings XI Punjab,0,Kolkata Knight Riders,Arshdeep Singh,1125976,4342,lmf,lhb
+330,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Robin Uthappa,35582,4345,rm,rhb
+331,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Ben Stokes,311158,4345,rfm,lhb
+332,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Steven Smith,267192,4345,lbg,rhb
+333,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Sanju Samson,425943,4345,,rhb
+334,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Jos Buttler,308967,4345,,rhb
+335,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Riyan Parag,1079434,4345,lb,rhb
+336,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Rahul Tewatia,423838,4345,lb,lhb
+337,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Jofra Archer,669855,4345,rf,rhb
+338,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Shreyas Gopal,344580,4345,lb,rhb
+339,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Ankit Rajpoot,591650,4345,rm,rhb
+340,1216541,2020-10-25,1965,0,Rajasthan Royals,0,Mumbai Indians,Kartik Tyagi,1122918,4345,rmf,rhb
+341,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Ishan Kishan,720471,4346,,lhb
+342,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Quinton de Kock,379143,4346,,lhb
+343,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+344,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Saurabh Tiwary,35390,4346,,lhb
+345,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Kieron Pollard,230559,4346,rm,rhb
+346,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Hardik Pandya,625371,4346,rmf,rhb
+347,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Krunal Pandya,471342,4346,sla,lhb
+348,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,James Pattinson,272465,4346,rfm,lhb
+349,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Rahul Chahar,1064812,4346,lbg,rhb
+350,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Trent Boult,277912,4346,lfm,rhb
+351,1216541,2020-10-25,1965,0,Mumbai Indians,0,Rajasthan Royals,Jasprit Bumrah,625383,4346,rf,rhb
+352,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Devdutt Padikkal,1119026,4340,ob,lhb
+353,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Aaron Finch,5334,4340,sla,rhb
+354,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Virat Kohli,253802,4340,rm,rhb
+355,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,AB de Villiers,44936,4340,rm,rhb
+356,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Moeen Ali,8917,4340,ob,lhb
+357,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Chris Morris,439952,4340,rfm,rhb
+358,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Gurkeerat Singh Mann,537124,4340,ob,rhb
+359,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Washington Sundar,719715,4340,ob,lhb
+360,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Navdeep Saini,700167,4340,rf,rhb
+361,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Yuzvendra Chahal,430246,4340,lbg,rhb
+362,1216544,2020-10-25,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Mohammed Siraj,940973,4340,rmf,rhb
+363,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ruturaj Gaikwad,1060380,4343,ob,rhb
+364,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Faf du Plessis,44828,4343,lb,rhb
+365,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ambati Rayudu,33141,4343,ob,rhb
+366,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,MS Dhoni,28081,4343,rm,rhb
+367,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Narayan Jagadeesan,1048813,4343,,rhb
+368,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ravindra Jadeja,234675,4343,sla,lhb
+369,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Sam Curran,662973,4343,lmf,lhb
+370,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Mitchell Santner,502714,4343,sla,lhb
+371,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Deepak Chahar,447261,4343,rm,rhb
+372,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Imran Tahir,40618,4343,lbg,rhb
+373,1216544,2020-10-25,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Monu Kumar,694209,4343,rm,rhb
+374,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,KL Rahul,422108,4342,,rhb
+375,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mandeep Singh,398506,4342,rm,rhb
+376,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Chris Gayle,51880,4342,ob,lhb
+377,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Nicholas Pooran,604302,4342,,lhb
+378,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Glenn Maxwell,325026,4342,ob,rhb
+379,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Deepak Hooda,497121,4342,ob,rhb
+380,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Chris Jordan,288992,4342,rfm,rhb
+381,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Murugan Ashwin,528067,4342,lbg,rhb
+382,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Ravi Bishnoi,1175441,4342,lbg,rhb
+383,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mohammed Shami,481896,4342,rf,rhb
+384,1216498,2020-10-24,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Arshdeep Singh,1125976,4342,lmf,lhb
+385,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,David Warner,219889,5143,lb,lhb
+386,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Jonny Bairstow,297433,5143,rm,rhb
+387,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Manish Pandey,290630,5143,rm,rhb
+388,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Abdul Samad,1175485,5143,lb,rhb
+389,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Vijay Shankar,477021,5143,rm,rhb
+390,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Jason Holder,391485,5143,rmf,rhb
+391,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Priyam Garg,1070180,5143,rm,rhb
+392,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Rashid Khan,793463,5143,lbg,rhb
+393,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Sandeep Sharma,438362,5143,rm,rhb
+394,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,T Natarajan,802575,5143,lm,lhb
+395,1216498,2020-10-24,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Khaleel Ahmed,942645,5143,lm,rhb
+396,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Shubman Gill,1070173,4341,ob,rhb
+397,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Nitish Rana,604527,4341,ob,lhb
+398,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Rahul Tripathi,446763,4341,rm,rhb
+399,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Dinesh Karthik,30045,4341,ob,rhb
+400,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Sunil Narine,230558,4341,ob,lhb
+401,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Eoin Morgan,24598,4341,rm,lhb
+402,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Pat Cummins,489889,4341,rf,rhb
+403,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Lockie Ferguson,493773,4341,rf,rhb
+404,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+405,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Prasidh Krishna,917159,4341,rmf,rhb
+406,1216497,2020-10-24,1965,0,Kolkata Knight Riders,0,Delhi Capitals,Varun Chakravarthy,1108375,4341,lbg,rhb
+407,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Ajinkya Rahane,277916,4344,rm,rhb
+408,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Shikhar Dhawan,28235,4344,ob,lhb
+409,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Shreyas Iyer,642519,4344,lbg,rhb
+410,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Rishabh Pant,931581,4344,,lhb
+411,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Shimron Hetmyer,670025,4344,,lhb
+412,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Marcus Stoinis,325012,4344,rm,rhb
+413,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Axar Patel,554691,4344,sla,lhb
+414,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Kagiso Rabada,550215,4344,rf,lhb
+415,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Ravichandran Ashwin,26421,4344,ob,rhb
+416,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Tushar Deshpande,822553,4344,rm,lhb
+417,1216497,2020-10-24,1965,0,Delhi Capitals,0,Kolkata Knight Riders,Anrich Nortje,481979,4344,rf,rhb
+418,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ruturaj Gaikwad,1060380,4343,ob,rhb
+419,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Faf du Plessis,44828,4343,lb,rhb
+420,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ambati Rayudu,33141,4343,ob,rhb
+421,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Narayan Jagadeesan,1048813,4343,,rhb
+422,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,MS Dhoni,28081,4343,rm,rhb
+423,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Ravindra Jadeja,234675,4343,sla,lhb
+424,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Sam Curran,662973,4343,lmf,lhb
+425,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Deepak Chahar,447261,4343,rm,rhb
+426,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Shardul Thakur,475281,4343,rm,rhb
+427,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Imran Tahir,40618,4343,lbg,rhb
+428,1216521,2020-10-23,848,0,Chennai Super Kings,0,Mumbai Indians,Josh Hazlewood,288284,4343,rfm,lhb
+429,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Quinton de Kock,379143,4346,,lhb
+430,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Ishan Kishan,720471,4346,,lhb
+431,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Suryakumar Yadav,446507,4346,rm/ob,rhb
+432,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Saurabh Tiwary,35390,4346,,lhb
+433,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Krunal Pandya,471342,4346,sla,lhb
+434,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Hardik Pandya,625371,4346,rmf,rhb
+435,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Kieron Pollard,230559,4346,rm,rhb
+436,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Nathan Coulter-Nile,261354,4346,rf,rhb
+437,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Rahul Chahar,1064812,4346,lbg,rhb
+438,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Trent Boult,277912,4346,lfm,rhb
+439,1216521,2020-10-23,848,0,Mumbai Indians,0,Chennai Super Kings,Jasprit Bumrah,625383,4346,rf,rhb
+440,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Robin Uthappa,35582,4345,rm,rhb
+441,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Ben Stokes,311158,4345,rfm,lhb
+442,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Sanju Samson,425943,4345,,rhb
+443,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Jos Buttler,308967,4345,,rhb
+444,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Steven Smith,267192,4345,lbg,rhb
+445,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Riyan Parag,1079434,4345,lb,rhb
+446,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Rahul Tewatia,423838,4345,lb,lhb
+447,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Jofra Archer,669855,4345,rf,rhb
+448,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Shreyas Gopal,344580,4345,lb,rhb
+449,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Ankit Rajpoot,591650,4345,rm,rhb
+450,1216518,2020-10-22,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Kartik Tyagi,1122918,4345,rmf,rhb
+451,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,David Warner,219889,5143,lb,lhb
+452,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Jonny Bairstow,297433,5143,rm,rhb
+453,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Manish Pandey,290630,5143,rm,rhb
+454,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Vijay Shankar,477021,5143,rm,rhb
+455,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Priyam Garg,1070180,5143,rm,rhb
+456,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Abdul Samad,1175485,5143,lb,rhb
+457,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Jason Holder,391485,5143,rmf,rhb
+458,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Rashid Khan,793463,5143,lbg,rhb
+459,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Sandeep Sharma,438362,5143,rm,rhb
+460,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,T Natarajan,802575,5143,lm,lhb
+461,1216518,2020-10-22,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Shahbaz Nadeem,31872,5143,sla,rhb
+462,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Shubman Gill,1070173,4341,ob,rhb
+463,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Rahul Tripathi,446763,4341,rm,rhb
+464,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Nitish Rana,604527,4341,ob,lhb
+465,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Tom Banton,877051,4341,,rhb
+466,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Dinesh Karthik,30045,4341,ob,rhb
+467,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Eoin Morgan,24598,4341,rm,lhb
+468,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Pat Cummins,489889,4341,rf,rhb
+469,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Kuldeep Yadav,559235,4341,lws,lhb
+470,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Lockie Ferguson,493773,4341,rf,rhb
+471,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Prasidh Krishna,917159,4341,rmf,rhb
+472,1216494,2020-10-21,1965,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Varun Chakravarthy,1108375,4341,lbg,rhb
+473,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Devdutt Padikkal,1119026,4340,ob,lhb
+474,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Aaron Finch,5334,4340,sla,rhb
+475,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Gurkeerat Singh Mann,537124,4340,ob,rhb
+476,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Virat Kohli,253802,4340,rm,rhb
+477,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,AB de Villiers,44936,4340,rm,rhb
+478,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Chris Morris,439952,4340,rfm,rhb
+479,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Washington Sundar,719715,4340,ob,lhb
+480,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Isuru Udana,328026,4340,lmf,rhb
+481,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Navdeep Saini,700167,4340,rf,rhb
+482,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Yuzvendra Chahal,430246,4340,lbg,rhb
+483,1216494,2020-10-21,1965,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Mohammed Siraj,940973,4340,rmf,rhb
+484,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,KL Rahul,422108,4342,,rhb
+485,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mayank Agarwal,398438,4342,ob,rhb
+486,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Chris Gayle,51880,4342,ob,lhb
+487,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Nicholas Pooran,604302,4342,,lhb
+488,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Glenn Maxwell,325026,4342,ob,rhb
+489,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Deepak Hooda,497121,4342,ob,rhb
+490,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,James Neesham,355269,4342,rmf,lhb
+491,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Murugan Ashwin,528067,4342,lbg,rhb
+492,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Ravi Bishnoi,1175441,4342,lbg,rhb
+493,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mohammed Shami,481896,4342,rf,rhb
+494,1216546,2020-10-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Arshdeep Singh,1125976,4342,lmf,lhb
+495,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Prithvi Shaw,1070168,4344,ob,rhb
+496,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shikhar Dhawan,28235,4344,ob,lhb
+497,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shreyas Iyer,642519,4344,lbg,rhb
+498,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Rishabh Pant,931581,4344,,lhb
+499,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Marcus Stoinis,325012,4344,rm,rhb
+500,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shimron Hetmyer,670025,4344,,lhb
+501,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Axar Patel,554691,4344,sla,lhb
+502,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Ravichandran Ashwin,26421,4344,ob,rhb
+503,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Kagiso Rabada,550215,4344,rf,lhb
+504,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Daniel Sams,826901,4344,lfm,rhb
+505,1216546,2020-10-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Tushar Deshpande,822553,4344,rm,lhb
+506,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Sam Curran,662973,4343,lmf,lhb
+507,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Faf du Plessis,44828,4343,lb,rhb
+508,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Shane Watson,8180,4343,rfm,rhb
+509,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Ambati Rayudu,33141,4343,ob,rhb
+510,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,MS Dhoni,28081,4343,rm,rhb
+511,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Ravindra Jadeja,234675,4343,sla,lhb
+512,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Kedar Jadhav,290716,4343,ob,rhb
+513,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Piyush Chawla,32966,4343,lb,lhb
+514,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Deepak Chahar,447261,4343,rm,rhb
+515,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Shardul Thakur,475281,4343,rm,rhb
+516,1216533,2020-10-19,1965,0,Chennai Super Kings,0,Rajasthan Royals,Josh Hazlewood,288284,4343,rfm,lhb
+517,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Ben Stokes,311158,4345,rfm,lhb
+518,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Robin Uthappa,35582,4345,rm,rhb
+519,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Sanju Samson,425943,4345,,rhb
+520,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Steven Smith,267192,4345,lbg,rhb
+521,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Jos Buttler,308967,4345,,rhb
+522,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Rahul Tewatia,423838,4345,lb,lhb
+523,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Riyan Parag,1079434,4345,lb,rhb
+524,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Jofra Archer,669855,4345,rf,rhb
+525,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Shreyas Gopal,344580,4345,lb,rhb
+526,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Ankit Rajpoot,591650,4345,rm,rhb
+527,1216533,2020-10-19,1965,0,Rajasthan Royals,0,Chennai Super Kings,Kartik Tyagi,1122918,4345,rmf,rhb
+528,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Rohit Sharma,34102,4346,ob,rhb
+529,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Quinton de Kock,379143,4346,,lhb
+530,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Suryakumar Yadav,446507,4346,rm/ob,rhb
+531,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Ishan Kishan,720471,4346,,lhb
+532,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Krunal Pandya,471342,4346,sla,lhb
+533,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Hardik Pandya,625371,4346,rmf,rhb
+534,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Kieron Pollard,230559,4346,rm,rhb
+535,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Nathan Coulter-Nile,261354,4346,rf,rhb
+536,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Rahul Chahar,1064812,4346,lbg,rhb
+537,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Trent Boult,277912,4346,lfm,rhb
+538,1216517,2020-10-18,2439,0,Mumbai Indians,0,Kings XI Punjab,Jasprit Bumrah,625383,4346,rf,rhb
+539,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,KL Rahul,422108,4342,,rhb
+540,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Mayank Agarwal,398438,4342,ob,rhb
+541,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Chris Gayle,51880,4342,ob,lhb
+542,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Nicholas Pooran,604302,4342,,lhb
+543,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Glenn Maxwell,325026,4342,ob,rhb
+544,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Deepak Hooda,497121,4342,ob,rhb
+545,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Chris Jordan,288992,4342,rfm,rhb
+546,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Murugan Ashwin,528067,4342,lbg,rhb
+547,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Ravi Bishnoi,1175441,4342,lbg,rhb
+548,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Mohammed Shami,481896,4342,rf,rhb
+549,1216517,2020-10-18,2439,0,Kings XI Punjab,0,Mumbai Indians,Arshdeep Singh,1125976,4342,lmf,lhb
+550,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Jonny Bairstow,297433,5143,rm,rhb
+551,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Kane Williamson,277906,5143,ob,rhb
+552,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Priyam Garg,1070180,5143,rm,rhb
+553,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,David Warner,219889,5143,lb,lhb
+554,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Manish Pandey,290630,5143,rm,rhb
+555,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Vijay Shankar,477021,5143,rm,rhb
+556,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Abdul Samad,1175485,5143,lb,rhb
+557,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Rashid Khan,793463,5143,lbg,rhb
+558,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Sandeep Sharma,438362,5143,rm,rhb
+559,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Basil Thampi,732291,5143,rfm,rhb
+560,1216512,2020-10-18,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,T Natarajan,802575,5143,lm,lhb
+561,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Shubman Gill,1070173,4341,ob,rhb
+562,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Rahul Tripathi,446763,4341,rm,rhb
+563,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Nitish Rana,604527,4341,ob,lhb
+564,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Andre Russell,276298,4341,rf,rhb
+565,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Eoin Morgan,24598,4341,rm,lhb
+566,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Dinesh Karthik,30045,4341,ob,rhb
+567,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Pat Cummins,489889,4341,rf,rhb
+568,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Lockie Ferguson,493773,4341,rf,rhb
+569,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Kuldeep Yadav,559235,4341,lws,lhb
+570,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Shivam Mavi,1079848,4341,rfm,rhb
+571,1216512,2020-10-18,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Varun Chakravarthy,1108375,4341,lbg,rhb
+572,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Prithvi Shaw,1070168,4344,ob,rhb
+573,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Shikhar Dhawan,28235,4344,ob,lhb
+574,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Ajinkya Rahane,277916,4344,rm,rhb
+575,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Shreyas Iyer,642519,4344,lbg,rhb
+576,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Marcus Stoinis,325012,4344,rm,rhb
+577,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Alex Carey,326434,4344,,lhb
+578,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Axar Patel,554691,4344,sla,lhb
+579,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Ravichandran Ashwin,26421,4344,ob,rhb
+580,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Tushar Deshpande,822553,4344,rm,lhb
+581,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Kagiso Rabada,550215,4344,rf,lhb
+582,1216509,2020-10-17,848,0,Delhi Capitals,0,Chennai Super Kings,Anrich Nortje,481979,4344,rf,rhb
+583,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Sam Curran,662973,4343,lmf,lhb
+584,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Faf du Plessis,44828,4343,lb,rhb
+585,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Shane Watson,8180,4343,rfm,rhb
+586,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Ambati Rayudu,33141,4343,ob,rhb
+587,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,MS Dhoni,28081,4343,rm,rhb
+588,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Ravindra Jadeja,234675,4343,sla,lhb
+589,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Kedar Jadhav,290716,4343,ob,rhb
+590,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Dwayne Bravo,51439,4343,rm,rhb
+591,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Deepak Chahar,447261,4343,rm,rhb
+592,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Shardul Thakur,475281,4343,rm,rhb
+593,1216509,2020-10-17,848,0,Chennai Super Kings,0,Delhi Capitals,Karn Sharma,30288,4343,lbg,lhb
+594,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Robin Uthappa,35582,4345,rm,rhb
+595,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Ben Stokes,311158,4345,rfm,lhb
+596,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Sanju Samson,425943,4345,,rhb
+597,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Steven Smith,267192,4345,lbg,rhb
+598,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jos Buttler,308967,4345,,rhb
+599,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Rahul Tewatia,423838,4345,lb,lhb
+600,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jofra Archer,669855,4345,rf,rhb
+601,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Riyan Parag,1079434,4345,lb,rhb
+602,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Shreyas Gopal,344580,4345,lb,rhb
+603,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jaydev Unadkat,390484,4345,lm,rhb
+604,1216522,2020-10-17,2439,0,Rajasthan Royals,0,Royal Challengers Bangalore,Kartik Tyagi,1122918,4345,rmf,rhb
+605,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Devdutt Padikkal,1119026,4340,ob,lhb
+606,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Aaron Finch,5334,4340,sla,rhb
+607,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Virat Kohli,253802,4340,rm,rhb
+608,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,AB de Villiers,44936,4340,rm,rhb
+609,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Gurkeerat Singh Mann,537124,4340,ob,rhb
+610,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Chris Morris,439952,4340,rfm,rhb
+611,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Washington Sundar,719715,4340,ob,lhb
+612,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Shahbaz Ahmed,1159711,4340,sla,lhb
+613,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Isuru Udana,328026,4340,lmf,rhb
+614,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Navdeep Saini,700167,4340,rf,rhb
+615,1216522,2020-10-17,2439,0,Royal Challengers Bangalore,0,Rajasthan Royals,Yuzvendra Chahal,430246,4340,lbg,rhb
+616,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rohit Sharma,34102,4346,ob,rhb
+617,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Quinton de Kock,379143,4346,,lhb
+618,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Suryakumar Yadav,446507,4346,rm/ob,rhb
+619,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Hardik Pandya,625371,4346,rmf,rhb
+620,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Ishan Kishan,720471,4346,,lhb
+621,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Kieron Pollard,230559,4346,rm,rhb
+622,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Krunal Pandya,471342,4346,sla,lhb
+623,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rahul Chahar,1064812,4346,lbg,rhb
+624,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Trent Boult,277912,4346,lfm,rhb
+625,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Jasprit Bumrah,625383,4346,rf,rhb
+626,1216526,2020-10-16,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Nathan Coulter-Nile,261354,4346,rf,rhb
+627,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Rahul Tripathi,446763,4341,rm,rhb
+628,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shubman Gill,1070173,4341,ob,rhb
+629,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nitish Rana,604527,4341,ob,lhb
+630,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Dinesh Karthik,30045,4341,ob,rhb
+631,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Eoin Morgan,24598,4341,rm,lhb
+632,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Andre Russell,276298,4341,rf,rhb
+633,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Pat Cummins,489889,4341,rf,rhb
+634,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Chris Green,787073,4341,ob,rhb
+635,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Prasidh Krishna,917159,4341,rmf,rhb
+636,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shivam Mavi,1079848,4341,rfm,rhb
+637,1216526,2020-10-16,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Varun Chakravarthy,1108375,4341,lbg,rhb
+638,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Aaron Finch,5334,4340,sla,rhb
+639,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Devdutt Padikkal,1119026,4340,ob,lhb
+640,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Virat Kohli,253802,4340,rm,rhb
+641,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Washington Sundar,719715,4340,ob,lhb
+642,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Shivam Dube,714451,4340,rm,lhb
+643,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,AB de Villiers,44936,4340,rm,rhb
+644,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Chris Morris,439952,4340,rfm,rhb
+645,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Isuru Udana,328026,4340,lmf,rhb
+646,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Navdeep Saini,700167,4340,rf,rhb
+647,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Yuzvendra Chahal,430246,4340,lbg,rhb
+648,1216531,2020-10-15,848,0,Royal Challengers Bangalore,0,Kings XI Punjab,Mohammed Siraj,940973,4340,rmf,rhb
+649,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,KL Rahul,422108,4342,,rhb
+650,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mayank Agarwal,398438,4342,ob,rhb
+651,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Chris Gayle,51880,4342,ob,lhb
+652,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Nicholas Pooran,604302,4342,,lhb
+653,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Glenn Maxwell,325026,4342,ob,rhb
+654,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Deepak Hooda,497121,4342,ob,rhb
+655,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Chris Jordan,288992,4342,rfm,rhb
+656,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Murugan Ashwin,528067,4342,lbg,rhb
+657,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Ravi Bishnoi,1175441,4342,lbg,rhb
+658,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mohammed Shami,481896,4342,rf,rhb
+659,1216531,2020-10-15,848,0,Kings XI Punjab,0,Royal Challengers Bangalore,Arshdeep Singh,1125976,4342,lmf,lhb
+660,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Prithvi Shaw,1070168,4344,ob,rhb
+661,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Shikhar Dhawan,28235,4344,ob,lhb
+662,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Ajinkya Rahane,277916,4344,rm,rhb
+663,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Shreyas Iyer,642519,4344,lbg,rhb
+664,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Marcus Stoinis,325012,4344,rm,rhb
+665,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Alex Carey,326434,4344,,lhb
+666,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Axar Patel,554691,4344,sla,lhb
+667,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Ravichandran Ashwin,26421,4344,ob,rhb
+668,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Tushar Deshpande,822553,4344,rm,lhb
+669,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Kagiso Rabada,550215,4344,rf,lhb
+670,1216543,2020-10-14,2439,0,Delhi Capitals,0,Rajasthan Royals,Anrich Nortje,481979,4344,rf,rhb
+671,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Ben Stokes,311158,4345,rfm,lhb
+672,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Jos Buttler,308967,4345,,rhb
+673,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Steven Smith,267192,4345,lbg,rhb
+674,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Sanju Samson,425943,4345,,rhb
+675,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Robin Uthappa,35582,4345,rm,rhb
+676,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Riyan Parag,1079434,4345,lb,rhb
+677,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Rahul Tewatia,423838,4345,lb,lhb
+678,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Jofra Archer,669855,4345,rf,rhb
+679,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Shreyas Gopal,344580,4345,lb,rhb
+680,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Jaydev Unadkat,390484,4345,lm,rhb
+681,1216543,2020-10-14,2439,0,Rajasthan Royals,0,Delhi Capitals,Kartik Tyagi,1122918,4345,rmf,rhb
+682,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,David Warner,219889,5143,lb,lhb
+683,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Jonny Bairstow,297433,5143,rm,rhb
+684,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Manish Pandey,290630,5143,rm,rhb
+685,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Kane Williamson,277906,5143,ob,rhb
+686,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Priyam Garg,1070180,5143,rm,rhb
+687,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Vijay Shankar,477021,5143,rm,rhb
+688,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Rashid Khan,793463,5143,lbg,rhb
+689,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Shahbaz Nadeem,31872,5143,sla,rhb
+690,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Sandeep Sharma,438362,5143,rm,rhb
+691,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,T Natarajan,802575,5143,lm,lhb
+692,1216528,2020-10-13,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Khaleel Ahmed,942645,5143,lm,rhb
+693,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Sam Curran,662973,4343,lmf,lhb
+694,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Faf du Plessis,44828,4343,lb,rhb
+695,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Shane Watson,8180,4343,rfm,rhb
+696,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Ambati Rayudu,33141,4343,ob,rhb
+697,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,MS Dhoni,28081,4343,rm,rhb
+698,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Ravindra Jadeja,234675,4343,sla,lhb
+699,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Dwayne Bravo,51439,4343,rm,rhb
+700,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Deepak Chahar,447261,4343,rm,rhb
+701,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Piyush Chawla,32966,4343,lb,lhb
+702,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Shardul Thakur,475281,4343,rm,rhb
+703,1216528,2020-10-13,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Karn Sharma,30288,4343,lbg,lhb
+704,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Aaron Finch,5334,4340,sla,rhb
+705,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Devdutt Padikkal,1119026,4340,ob,lhb
+706,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Virat Kohli,253802,4340,rm,rhb
+707,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,AB de Villiers,44936,4340,rm,rhb
+708,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Chris Morris,439952,4340,rfm,rhb
+709,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Washington Sundar,719715,4340,ob,lhb
+710,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Shivam Dube,714451,4340,rm,lhb
+711,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Isuru Udana,328026,4340,lmf,rhb
+712,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Navdeep Saini,700167,4340,rf,rhb
+713,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Yuzvendra Chahal,430246,4340,lbg,rhb
+714,1216540,2020-10-12,848,0,Royal Challengers Bangalore,0,Kolkata Knight Riders,Mohammed Siraj,940973,4340,rmf,rhb
+715,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Tom Banton,877051,4341,,rhb
+716,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Shubman Gill,1070173,4341,ob,rhb
+717,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Nitish Rana,604527,4341,ob,lhb
+718,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Eoin Morgan,24598,4341,rm,lhb
+719,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Dinesh Karthik,30045,4341,ob,rhb
+720,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Andre Russell,276298,4341,rf,rhb
+721,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Rahul Tripathi,446763,4341,rm,rhb
+722,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Pat Cummins,489889,4341,rf,rhb
+723,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+724,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Varun Chakravarthy,1108375,4341,lbg,rhb
+725,1216540,2020-10-12,848,0,Kolkata Knight Riders,0,Royal Challengers Bangalore,Prasidh Krishna,917159,4341,rmf,rhb
+726,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Rohit Sharma,34102,4346,ob,rhb
+727,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Quinton de Kock,379143,4346,,lhb
+728,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+729,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Ishan Kishan,720471,4346,,lhb
+730,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Hardik Pandya,625371,4346,rmf,rhb
+731,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Kieron Pollard,230559,4346,rm,rhb
+732,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Krunal Pandya,471342,4346,sla,lhb
+733,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,James Pattinson,272465,4346,rfm,lhb
+734,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Rahul Chahar,1064812,4346,lbg,rhb
+735,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Trent Boult,277912,4346,lfm,rhb
+736,1216529,2020-10-11,1965,0,Mumbai Indians,0,Delhi Capitals,Jasprit Bumrah,625383,4346,rf,rhb
+737,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Prithvi Shaw,1070168,4344,ob,rhb
+738,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Shikhar Dhawan,28235,4344,ob,lhb
+739,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Ajinkya Rahane,277916,4344,rm,rhb
+740,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Shreyas Iyer,642519,4344,lbg,rhb
+741,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Marcus Stoinis,325012,4344,rm,rhb
+742,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Alex Carey,326434,4344,,lhb
+743,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Axar Patel,554691,4344,sla,lhb
+744,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Ravichandran Ashwin,26421,4344,ob,rhb
+745,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Harshal Patel,390481,4344,rm,rhb
+746,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Kagiso Rabada,550215,4344,rf,lhb
+747,1216529,2020-10-11,1965,0,Delhi Capitals,0,Mumbai Indians,Anrich Nortje,481979,4344,rf,rhb
+748,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,David Warner,219889,5143,lb,lhb
+749,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Jonny Bairstow,297433,5143,rm,rhb
+750,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Manish Pandey,290630,5143,rm,rhb
+751,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Kane Williamson,277906,5143,ob,rhb
+752,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Priyam Garg,1070180,5143,rm,rhb
+753,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Vijay Shankar,477021,5143,rm,rhb
+754,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Abhishek Sharma,1070183,5143,sla,lhb
+755,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Rashid Khan,793463,5143,lbg,rhb
+756,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Sandeep Sharma,438362,5143,rm,rhb
+757,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,Khaleel Ahmed,942645,5143,lm,rhb
+758,1216507,2020-10-11,2439,0,Sunrisers Hyderabad,0,Rajasthan Royals,T Natarajan,802575,5143,lm,lhb
+759,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Ben Stokes,311158,4345,rfm,lhb
+760,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Jos Buttler,308967,4345,,rhb
+761,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Steven Smith,267192,4345,lbg,rhb
+762,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Sanju Samson,425943,4345,,rhb
+763,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Robin Uthappa,35582,4345,rm,rhb
+764,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Riyan Parag,1079434,4345,lb,rhb
+765,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Rahul Tewatia,423838,4345,lb,lhb
+766,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Jofra Archer,669855,4345,rf,rhb
+767,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Shreyas Gopal,344580,4345,lb,rhb
+768,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Jaydev Unadkat,390484,4345,lm,rhb
+769,1216507,2020-10-11,2439,0,Rajasthan Royals,0,Sunrisers Hyderabad,Kartik Tyagi,1122918,4345,rmf,rhb
+770,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Shane Watson,8180,4343,rfm,rhb
+771,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Faf du Plessis,44828,4343,lb,rhb
+772,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ambati Rayudu,33141,4343,ob,rhb
+773,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Narayan Jagadeesan,1048813,4343,,rhb
+774,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,MS Dhoni,28081,4343,rm,rhb
+775,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Sam Curran,662973,4343,lmf,lhb
+776,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Ravindra Jadeja,234675,4343,sla,lhb
+777,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Dwayne Bravo,51439,4343,rm,rhb
+778,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Deepak Chahar,447261,4343,rm,rhb
+779,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Shardul Thakur,475281,4343,rm,rhb
+780,1216525,2020-10-10,2439,0,Chennai Super Kings,0,Royal Challengers Bangalore,Karn Sharma,30288,4343,lbg,lhb
+781,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Devdutt Padikkal,1119026,4340,ob,lhb
+782,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Aaron Finch,5334,4340,sla,rhb
+783,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Virat Kohli,253802,4340,rm,rhb
+784,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,AB de Villiers,44936,4340,rm,rhb
+785,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Washington Sundar,719715,4340,ob,lhb
+786,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Shivam Dube,714451,4340,rm,lhb
+787,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Gurkeerat Singh Mann,537124,4340,ob,rhb
+788,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Chris Morris,439952,4340,rfm,rhb
+789,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Isuru Udana,328026,4340,lmf,rhb
+790,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Navdeep Saini,700167,4340,rf,rhb
+791,1216525,2020-10-10,2439,0,Royal Challengers Bangalore,0,Chennai Super Kings,Yuzvendra Chahal,430246,4340,lbg,rhb
+792,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,KL Rahul,422108,4342,,rhb
+793,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Mayank Agarwal,398438,4342,ob,rhb
+794,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Nicholas Pooran,604302,4342,,lhb
+795,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Prabhsimran Singh,1161024,4342,,rhb
+796,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Glenn Maxwell,325026,4342,ob,rhb
+797,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Mandeep Singh,398506,4342,rm,rhb
+798,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Chris Jordan,288992,4342,rfm,rhb
+799,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Ravi Bishnoi,1175441,4342,lbg,rhb
+800,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Mohammed Shami,481896,4342,rf,rhb
+801,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Arshdeep Singh,1125976,4342,lmf,lhb
+802,1216523,2020-10-10,1965,0,Kings XI Punjab,0,Kolkata Knight Riders,Mujeeb Ur Rahman,974109,4342,ob,rhb
+803,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Rahul Tripathi,446763,4341,rm,rhb
+804,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Shubman Gill,1070173,4341,ob,rhb
+805,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Nitish Rana,604527,4341,ob,lhb
+806,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Eoin Morgan,24598,4341,rm,lhb
+807,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Dinesh Karthik,30045,4341,ob,rhb
+808,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Andre Russell,276298,4341,rf,rhb
+809,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Pat Cummins,489889,4341,rf,rhb
+810,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Sunil Narine,230558,4341,ob,lhb
+811,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+812,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Prasidh Krishna,917159,4341,rmf,rhb
+813,1216523,2020-10-10,1965,0,Kolkata Knight Riders,0,Kings XI Punjab,Varun Chakravarthy,1108375,4341,lbg,rhb
+814,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Yashasvi Jaiswal,1151278,4345,lb,lhb
+815,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Jos Buttler,308967,4345,,rhb
+816,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Steven Smith,267192,4345,lbg,rhb
+817,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Sanju Samson,425943,4345,,rhb
+818,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Mahipal Lomror,853265,4345,sla,lhb
+819,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Rahul Tewatia,423838,4345,lb,lhb
+820,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Andrew Tye,459508,4345,rmf,rhb
+821,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Jofra Archer,669855,4345,rf,rhb
+822,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Shreyas Gopal,344580,4345,lb,rhb
+823,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Kartik Tyagi,1122918,4345,rmf,rhb
+824,1216500,2020-10-09,848,0,Rajasthan Royals,0,Delhi Capitals,Varun Aaron,360911,4345,rf,rhb
+825,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Prithvi Shaw,1070168,4344,ob,rhb
+826,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Shikhar Dhawan,28235,4344,ob,lhb
+827,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Shreyas Iyer,642519,4344,lbg,rhb
+828,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Rishabh Pant,931581,4344,,lhb
+829,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Marcus Stoinis,325012,4344,rm,rhb
+830,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Shimron Hetmyer,670025,4344,,lhb
+831,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Harshal Patel,390481,4344,rm,rhb
+832,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Axar Patel,554691,4344,sla,lhb
+833,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Kagiso Rabada,550215,4344,rf,lhb
+834,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Ravichandran Ashwin,26421,4344,ob,rhb
+835,1216500,2020-10-09,848,0,Delhi Capitals,0,Rajasthan Royals,Anrich Nortje,481979,4344,rf,rhb
+836,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,David Warner,219889,5143,lb,lhb
+837,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Jonny Bairstow,297433,5143,rm,rhb
+838,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Abdul Samad,1175485,5143,lb,rhb
+839,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Manish Pandey,290630,5143,rm,rhb
+840,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Kane Williamson,277906,5143,ob,rhb
+841,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Priyam Garg,1070180,5143,rm,rhb
+842,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Abhishek Sharma,1070183,5143,sla,lhb
+843,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Rashid Khan,793463,5143,lbg,rhb
+844,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Sandeep Sharma,438362,5143,rm,rhb
+845,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,Khaleel Ahmed,942645,5143,lm,rhb
+846,1216542,2020-10-08,2439,0,Sunrisers Hyderabad,0,Kings XI Punjab,T Natarajan,802575,5143,lm,lhb
+847,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,KL Rahul,422108,4342,,rhb
+848,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mayank Agarwal,398438,4342,ob,rhb
+849,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Prabhsimran Singh,1161024,4342,,rhb
+850,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Nicholas Pooran,604302,4342,,lhb
+851,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Glenn Maxwell,325026,4342,ob,rhb
+852,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mandeep Singh,398506,4342,rm,rhb
+853,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mujeeb Ur Rahman,974109,4342,ob,rhb
+854,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Ravi Bishnoi,1175441,4342,lbg,rhb
+855,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Mohammed Shami,481896,4342,rf,rhb
+856,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Sheldon Cottrell,495551,4342,lfm,rhb
+857,1216542,2020-10-08,2439,0,Kings XI Punjab,0,Sunrisers Hyderabad,Arshdeep Singh,1125976,4342,lmf,lhb
+858,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Rahul Tripathi,446763,4341,rm,rhb
+859,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Shubman Gill,1070173,4341,ob,rhb
+860,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Nitish Rana,604527,4341,ob,lhb
+861,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Sunil Narine,230558,4341,ob,lhb
+862,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Eoin Morgan,24598,4341,rm,lhb
+863,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Andre Russell,276298,4341,rf,rhb
+864,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Dinesh Karthik,30045,4341,ob,rhb
+865,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Pat Cummins,489889,4341,rf,rhb
+866,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+867,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Shivam Mavi,1079848,4341,rfm,rhb
+868,1216501,2020-10-07,1965,0,Kolkata Knight Riders,0,Chennai Super Kings,Varun Chakravarthy,1108375,4341,lbg,rhb
+869,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Shane Watson,8180,4343,rfm,rhb
+870,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Faf du Plessis,44828,4343,lb,rhb
+871,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Ambati Rayudu,33141,4343,ob,rhb
+872,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,MS Dhoni,28081,4343,rm,rhb
+873,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Sam Curran,662973,4343,lmf,lhb
+874,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Kedar Jadhav,290716,4343,ob,rhb
+875,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Ravindra Jadeja,234675,4343,sla,lhb
+876,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Dwayne Bravo,51439,4343,rm,rhb
+877,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Shardul Thakur,475281,4343,rm,rhb
+878,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Deepak Chahar,447261,4343,rm,rhb
+879,1216501,2020-10-07,1965,0,Chennai Super Kings,0,Kolkata Knight Riders,Karn Sharma,30288,4343,lbg,lhb
+880,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Quinton de Kock,379143,4346,,lhb
+881,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Rohit Sharma,34102,4346,ob,rhb
+882,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Suryakumar Yadav,446507,4346,rm/ob,rhb
+883,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Ishan Kishan,720471,4346,,lhb
+884,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Krunal Pandya,471342,4346,sla,lhb
+885,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Hardik Pandya,625371,4346,rmf,rhb
+886,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Kieron Pollard,230559,4346,rm,rhb
+887,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,James Pattinson,272465,4346,rfm,lhb
+888,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Rahul Chahar,1064812,4346,lbg,rhb
+889,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Trent Boult,277912,4346,lfm,rhb
+890,1216511,2020-10-06,1965,0,Mumbai Indians,0,Rajasthan Royals,Jasprit Bumrah,625383,4346,rf,rhb
+891,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Yashasvi Jaiswal,1151278,4345,lb,lhb
+892,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Jos Buttler,308967,4345,,rhb
+893,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Steven Smith,267192,4345,lbg,rhb
+894,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Sanju Samson,425943,4345,,rhb
+895,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Mahipal Lomror,853265,4345,sla,lhb
+896,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Tom Curran,550235,4345,rfm,rhb
+897,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Rahul Tewatia,423838,4345,lb,lhb
+898,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Jofra Archer,669855,4345,rf,rhb
+899,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Shreyas Gopal,344580,4345,lb,rhb
+900,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Ankit Rajpoot,591650,4345,rm,rhb
+901,1216511,2020-10-06,1965,0,Rajasthan Royals,0,Mumbai Indians,Kartik Tyagi,1122918,4345,rmf,rhb
+902,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Devdutt Padikkal,1119026,4340,ob,lhb
+903,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Aaron Finch,5334,4340,sla,rhb
+904,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Virat Kohli,253802,4340,rm,rhb
+905,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,AB de Villiers,44936,4340,rm,rhb
+906,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Moeen Ali,8917,4340,ob,lhb
+907,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Washington Sundar,719715,4340,ob,lhb
+908,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Shivam Dube,714451,4340,rm,lhb
+909,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Isuru Udana,328026,4340,lmf,rhb
+910,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Navdeep Saini,700167,4340,rf,rhb
+911,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Mohammed Siraj,940973,4340,rmf,rhb
+912,1216519,2020-10-05,2439,0,Royal Challengers Bangalore,0,Delhi Capitals,Yuzvendra Chahal,430246,4340,lbg,rhb
+913,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Prithvi Shaw,1070168,4344,ob,rhb
+914,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Shikhar Dhawan,28235,4344,ob,lhb
+915,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Shreyas Iyer,642519,4344,lbg,rhb
+916,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Rishabh Pant,931581,4344,,lhb
+917,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Marcus Stoinis,325012,4344,rm,rhb
+918,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Shimron Hetmyer,670025,4344,,lhb
+919,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Axar Patel,554691,4344,sla,lhb
+920,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Ravichandran Ashwin,26421,4344,ob,rhb
+921,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Kagiso Rabada,550215,4344,rf,lhb
+922,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Anrich Nortje,481979,4344,rf,rhb
+923,1216519,2020-10-05,2439,0,Delhi Capitals,0,Royal Challengers Bangalore,Harshal Patel,390481,4344,rm,rhb
+924,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,KL Rahul,422108,4342,,rhb
+925,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mayank Agarwal,398438,4342,ob,rhb
+926,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mandeep Singh,398506,4342,rm,rhb
+927,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Nicholas Pooran,604302,4342,,lhb
+928,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Glenn Maxwell,325026,4342,ob,rhb
+929,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Sarfaraz Khan,642525,4342,lb,rhb
+930,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Chris Jordan,288992,4342,rfm,rhb
+931,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Harpreet Brar,1168641,4342,sla,lhb
+932,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Ravi Bishnoi,1175441,4342,lbg,rhb
+933,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Mohammed Shami,481896,4342,rf,rhb
+934,1216513,2020-10-04,2439,0,Kings XI Punjab,0,Chennai Super Kings,Sheldon Cottrell,495551,4342,lfm,rhb
+935,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Shane Watson,8180,4343,rfm,rhb
+936,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Faf du Plessis,44828,4343,lb,rhb
+937,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Ambati Rayudu,33141,4343,ob,rhb
+938,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Kedar Jadhav,290716,4343,ob,rhb
+939,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,MS Dhoni,28081,4343,rm,rhb
+940,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Ravindra Jadeja,234675,4343,sla,lhb
+941,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Sam Curran,662973,4343,lmf,lhb
+942,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Dwayne Bravo,51439,4343,rm,rhb
+943,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Piyush Chawla,32966,4343,lb,lhb
+944,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Shardul Thakur,475281,4343,rm,rhb
+945,1216513,2020-10-04,2439,0,Chennai Super Kings,0,Kings XI Punjab,Deepak Chahar,447261,4343,rm,rhb
+946,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Rohit Sharma,34102,4346,ob,rhb
+947,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Quinton de Kock,379143,4346,,lhb
+948,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Suryakumar Yadav,446507,4346,rm/ob,rhb
+949,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Ishan Kishan,720471,4346,,lhb
+950,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Hardik Pandya,625371,4346,rmf,rhb
+951,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Kieron Pollard,230559,4346,rm,rhb
+952,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Krunal Pandya,471342,4346,sla,lhb
+953,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,James Pattinson,272465,4346,rfm,lhb
+954,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Rahul Chahar,1064812,4346,lbg,rhb
+955,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Trent Boult,277912,4346,lfm,rhb
+956,1216538,2020-10-04,848,0,Mumbai Indians,0,Sunrisers Hyderabad,Jasprit Bumrah,625383,4346,rf,rhb
+957,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,David Warner,219889,5143,lb,lhb
+958,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Jonny Bairstow,297433,5143,rm,rhb
+959,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Manish Pandey,290630,5143,rm,rhb
+960,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Kane Williamson,277906,5143,ob,rhb
+961,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Priyam Garg,1070180,5143,rm,rhb
+962,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Abhishek Sharma,1070183,5143,sla,lhb
+963,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Abdul Samad,1175485,5143,lb,rhb
+964,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Rashid Khan,793463,5143,lbg,rhb
+965,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Sandeep Sharma,438362,5143,rm,rhb
+966,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,Siddarth Kaul,326017,5143,rm,rhb
+967,1216538,2020-10-04,848,0,Sunrisers Hyderabad,0,Mumbai Indians,T Natarajan,802575,5143,lm,lhb
+968,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Prithvi Shaw,1070168,4344,ob,rhb
+969,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Shikhar Dhawan,28235,4344,ob,lhb
+970,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Shreyas Iyer,642519,4344,lbg,rhb
+971,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Rishabh Pant,931581,4344,,lhb
+972,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Marcus Stoinis,325012,4344,rm,rhb
+973,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Shimron Hetmyer,670025,4344,,lhb
+974,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Ravichandran Ashwin,26421,4344,ob,rhb
+975,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Kagiso Rabada,550215,4344,rf,lhb
+976,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Anrich Nortje,481979,4344,rf,rhb
+977,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Amit Mishra,31107,4344,lb,rhb
+978,1216515,2020-10-03,848,0,Delhi Capitals,0,Kolkata Knight Riders,Harshal Patel,390481,4344,rm,rhb
+979,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Shubman Gill,1070173,4341,ob,rhb
+980,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Sunil Narine,230558,4341,ob,lhb
+981,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Nitish Rana,604527,4341,ob,lhb
+982,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Andre Russell,276298,4341,rf,rhb
+983,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Dinesh Karthik,30045,4341,ob,rhb
+984,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Eoin Morgan,24598,4341,rm,lhb
+985,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Pat Cummins,489889,4341,rf,rhb
+986,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Rahul Tripathi,446763,4341,rm,rhb
+987,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+988,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Shivam Mavi,1079848,4341,rfm,rhb
+989,1216515,2020-10-03,848,0,Kolkata Knight Riders,0,Delhi Capitals,Varun Chakravarthy,1108375,4341,lbg,rhb
+990,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Devdutt Padikkal,1119026,4340,ob,lhb
+991,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Aaron Finch,5334,4340,sla,rhb
+992,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Virat Kohli,253802,4340,rm,rhb
+993,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,AB de Villiers,44936,4340,rm,rhb
+994,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Shivam Dube,714451,4340,rm,lhb
+995,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Gurkeerat Singh Mann,537124,4340,ob,rhb
+996,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Washington Sundar,719715,4340,ob,lhb
+997,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Isuru Udana,328026,4340,lmf,rhb
+998,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Navdeep Saini,700167,4340,rf,rhb
+999,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Yuzvendra Chahal,430246,4340,lbg,rhb
+1000,1216514,2020-10-03,1965,0,Royal Challengers Bangalore,0,Rajasthan Royals,Adam Zampa,379504,4340,lbg,rhb
+1001,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jos Buttler,308967,4345,,rhb
+1002,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Steven Smith,267192,4345,lbg,rhb
+1003,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Sanju Samson,425943,4345,,rhb
+1004,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Robin Uthappa,35582,4345,rm,rhb
+1005,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Mahipal Lomror,853265,4345,sla,lhb
+1006,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Riyan Parag,1079434,4345,lb,rhb
+1007,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Rahul Tewatia,423838,4345,lb,lhb
+1008,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jofra Archer,669855,4345,rf,rhb
+1009,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Tom Curran,550235,4345,rfm,rhb
+1010,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Shreyas Gopal,344580,4345,lb,rhb
+1011,1216514,2020-10-03,1965,0,Rajasthan Royals,0,Royal Challengers Bangalore,Jaydev Unadkat,390484,4345,lm,rhb
+1012,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Faf du Plessis,44828,4343,lb,rhb
+1013,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Shane Watson,8180,4343,rfm,rhb
+1014,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Ambati Rayudu,33141,4343,ob,rhb
+1015,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Kedar Jadhav,290716,4343,ob,rhb
+1016,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,MS Dhoni,28081,4343,rm,rhb
+1017,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Ravindra Jadeja,234675,4343,sla,lhb
+1018,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Sam Curran,662973,4343,lmf,lhb
+1019,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Dwayne Bravo,51439,4343,rm,rhb
+1020,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Shardul Thakur,475281,4343,rm,rhb
+1021,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Piyush Chawla,32966,4343,lb,lhb
+1022,1216516,2020-10-02,2439,0,Chennai Super Kings,0,Sunrisers Hyderabad,Deepak Chahar,447261,4343,rm,rhb
+1023,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,David Warner,219889,5143,lb,lhb
+1024,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Jonny Bairstow,297433,5143,rm,rhb
+1025,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Manish Pandey,290630,5143,rm,rhb
+1026,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Kane Williamson,277906,5143,ob,rhb
+1027,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Priyam Garg,1070180,5143,rm,rhb
+1028,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Abhishek Sharma,1070183,5143,sla,lhb
+1029,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Abdul Samad,1175485,5143,lb,rhb
+1030,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Rashid Khan,793463,5143,lbg,rhb
+1031,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Bhuvneshwar Kumar,326016,5143,rm,rhb
+1032,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,T Natarajan,802575,5143,lm,lhb
+1033,1216516,2020-10-02,2439,0,Sunrisers Hyderabad,0,Chennai Super Kings,Khaleel Ahmed,942645,5143,lm,rhb
+1034,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,KL Rahul,422108,4342,,rhb
+1035,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Mayank Agarwal,398438,4342,ob,rhb
+1036,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Karun Nair,398439,4342,ob,rhb
+1037,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Nicholas Pooran,604302,4342,,lhb
+1038,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Glenn Maxwell,325026,4342,ob,rhb
+1039,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,James Neesham,355269,4342,rmf,lhb
+1040,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Sarfaraz Khan,642525,4342,lb,rhb
+1041,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Krishnappa Gowtham,424377,4342,ob,rhb
+1042,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Ravi Bishnoi,1175441,4342,lbg,rhb
+1043,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Mohammed Shami,481896,4342,rf,rhb
+1044,1216503,2020-10-01,1965,0,Kings XI Punjab,0,Mumbai Indians,Sheldon Cottrell,495551,4342,lfm,rhb
+1045,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Quinton de Kock,379143,4346,,lhb
+1046,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Rohit Sharma,34102,4346,ob,rhb
+1047,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Suryakumar Yadav,446507,4346,rm/ob,rhb
+1048,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Ishan Kishan,720471,4346,,lhb
+1049,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Kieron Pollard,230559,4346,rm,rhb
+1050,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Hardik Pandya,625371,4346,rmf,rhb
+1051,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Krunal Pandya,471342,4346,sla,lhb
+1052,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,James Pattinson,272465,4346,rfm,lhb
+1053,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Rahul Chahar,1064812,4346,lbg,rhb
+1054,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Trent Boult,277912,4346,lfm,rhb
+1055,1216503,2020-10-01,1965,0,Mumbai Indians,0,Kings XI Punjab,Jasprit Bumrah,625383,4346,rf,rhb
+1056,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Jos Buttler,308967,4345,,rhb
+1057,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Steven Smith,267192,4345,lbg,rhb
+1058,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Sanju Samson,425943,4345,,rhb
+1059,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Robin Uthappa,35582,4345,rm,rhb
+1060,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Riyan Parag,1079434,4345,lb,rhb
+1061,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Rahul Tewatia,423838,4345,lb,lhb
+1062,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Tom Curran,550235,4345,rfm,rhb
+1063,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Shreyas Gopal,344580,4345,lb,rhb
+1064,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Jofra Archer,669855,4345,rf,rhb
+1065,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Jaydev Unadkat,390484,4345,lm,rhb
+1066,1216504,2020-09-30,2439,0,Rajasthan Royals,0,Kolkata Knight Riders,Ankit Rajpoot,591650,4345,rm,rhb
+1067,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Shubman Gill,1070173,4341,ob,rhb
+1068,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Sunil Narine,230558,4341,ob,lhb
+1069,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Nitish Rana,604527,4341,ob,lhb
+1070,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Andre Russell,276298,4341,rf,rhb
+1071,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Dinesh Karthik,30045,4341,ob,rhb
+1072,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Eoin Morgan,24598,4341,rm,lhb
+1073,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Pat Cummins,489889,4341,rf,rhb
+1074,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+1075,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Shivam Mavi,1079848,4341,rfm,rhb
+1076,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Kuldeep Yadav,559235,4341,lws,lhb
+1077,1216504,2020-09-30,2439,0,Kolkata Knight Riders,0,Rajasthan Royals,Varun Chakravarthy,1108375,4341,lbg,rhb
+1078,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Prithvi Shaw,1070168,4344,ob,rhb
+1079,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shikhar Dhawan,28235,4344,ob,lhb
+1080,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shreyas Iyer,642519,4344,lbg,rhb
+1081,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Rishabh Pant,931581,4344,,lhb
+1082,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Shimron Hetmyer,670025,4344,,lhb
+1083,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Marcus Stoinis,325012,4344,rm,rhb
+1084,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Axar Patel,554691,4344,sla,lhb
+1085,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Kagiso Rabada,550215,4344,rf,lhb
+1086,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Anrich Nortje,481979,4344,rf,rhb
+1087,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Amit Mishra,31107,4344,lb,rhb
+1088,1216532,2020-09-29,1965,0,Delhi Capitals,0,Sunrisers Hyderabad,Ishant Sharma,236779,4344,rfm,rhb
+1089,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,David Warner,219889,5143,lb,lhb
+1090,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Jonny Bairstow,297433,5143,rm,rhb
+1091,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Manish Pandey,290630,5143,rm,rhb
+1092,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Kane Williamson,277906,5143,ob,rhb
+1093,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Abdul Samad,1175485,5143,lb,rhb
+1094,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Abhishek Sharma,1070183,5143,sla,lhb
+1095,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Priyam Garg,1070180,5143,rm,rhb
+1096,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Rashid Khan,793463,5143,lbg,rhb
+1097,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Bhuvneshwar Kumar,326016,5143,rm,rhb
+1098,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,T Natarajan,802575,5143,lm,lhb
+1099,1216532,2020-09-29,1965,0,Sunrisers Hyderabad,0,Delhi Capitals,Khaleel Ahmed,942645,5143,lm,rhb
+1100,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Devdutt Padikkal,1119026,4340,ob,lhb
+1101,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Aaron Finch,5334,4340,sla,rhb
+1102,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Virat Kohli,253802,4340,rm,rhb
+1103,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,AB de Villiers,44936,4340,rm,rhb
+1104,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Shivam Dube,714451,4340,rm,lhb
+1105,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Gurkeerat Singh Mann,537124,4340,ob,rhb
+1106,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Washington Sundar,719715,4340,ob,lhb
+1107,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Isuru Udana,328026,4340,lmf,rhb
+1108,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Navdeep Saini,700167,4340,rf,rhb
+1109,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Yuzvendra Chahal,430246,4340,lbg,rhb
+1110,1216547,2020-09-28,2439,0,Royal Challengers Bangalore,0,Mumbai Indians,Adam Zampa,379504,4340,lbg,rhb
+1111,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Rohit Sharma,34102,4346,ob,rhb
+1112,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Quinton de Kock,379143,4346,,lhb
+1113,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Suryakumar Yadav,446507,4346,rm/ob,rhb
+1114,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Ishan Kishan,720471,4346,,lhb
+1115,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Hardik Pandya,625371,4346,rmf,rhb
+1116,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Kieron Pollard,230559,4346,rm,rhb
+1117,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Krunal Pandya,471342,4346,sla,lhb
+1118,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,James Pattinson,272465,4346,rfm,lhb
+1119,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Rahul Chahar,1064812,4346,lbg,rhb
+1120,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Trent Boult,277912,4346,lfm,rhb
+1121,1216547,2020-09-28,2439,0,Mumbai Indians,0,Royal Challengers Bangalore,Jasprit Bumrah,625383,4346,rf,rhb
+1122,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Jos Buttler,308967,4345,,rhb
+1123,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Steven Smith,267192,4345,lbg,rhb
+1124,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Sanju Samson,425943,4345,,rhb
+1125,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Rahul Tewatia,423838,4345,lb,lhb
+1126,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Robin Uthappa,35582,4345,rm,rhb
+1127,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Jofra Archer,669855,4345,rf,rhb
+1128,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Riyan Parag,1079434,4345,lb,rhb
+1129,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Tom Curran,550235,4345,rfm,rhb
+1130,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Shreyas Gopal,344580,4345,lb,rhb
+1131,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Ankit Rajpoot,591650,4345,rm,rhb
+1132,1216527,2020-09-27,848,0,Rajasthan Royals,0,Kings XI Punjab,Jaydev Unadkat,390484,4345,lm,rhb
+1133,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,KL Rahul,422108,4342,,rhb
+1134,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Mayank Agarwal,398438,4342,ob,rhb
+1135,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Glenn Maxwell,325026,4342,ob,rhb
+1136,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Nicholas Pooran,604302,4342,,lhb
+1137,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Karun Nair,398439,4342,ob,rhb
+1138,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,James Neesham,355269,4342,rmf,lhb
+1139,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Sarfaraz Khan,642525,4342,lb,rhb
+1140,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Mohammed Shami,481896,4342,rf,rhb
+1141,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Sheldon Cottrell,495551,4342,lfm,rhb
+1142,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Ravi Bishnoi,1175441,4342,lbg,rhb
+1143,1216527,2020-09-27,848,0,Kings XI Punjab,0,Rajasthan Royals,Murugan Ashwin,528067,4342,lbg,rhb
+1144,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Shubman Gill,1070173,4341,ob,rhb
+1145,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Sunil Narine,230558,4341,ob,lhb
+1146,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Nitish Rana,604527,4341,ob,lhb
+1147,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Dinesh Karthik,30045,4341,ob,rhb
+1148,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Eoin Morgan,24598,4341,rm,lhb
+1149,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Andre Russell,276298,4341,rf,rhb
+1150,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Pat Cummins,489889,4341,rf,rhb
+1151,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Shivam Mavi,1079848,4341,rfm,rhb
+1152,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Kuldeep Yadav,559235,4341,lws,lhb
+1153,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Kamlesh Nagarkoti,1070188,4341,rf,rhb
+1154,1216545,2020-09-26,1965,0,Kolkata Knight Riders,0,Sunrisers Hyderabad,Varun Chakravarthy,1108375,4341,lbg,rhb
+1155,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,David Warner,219889,5143,lb,lhb
+1156,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Jonny Bairstow,297433,5143,rm,rhb
+1157,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Manish Pandey,290630,5143,rm,rhb
+1158,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Wriddhiman Saha,279810,5143,,rhb
+1159,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Mohammad Nabi,25913,5143,ob,rhb
+1160,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Abhishek Sharma,1070183,5143,sla,lhb
+1161,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Priyam Garg,1070180,5143,rm,rhb
+1162,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Rashid Khan,793463,5143,lbg,rhb
+1163,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Bhuvneshwar Kumar,326016,5143,rm,rhb
+1164,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,T Natarajan,802575,5143,lm,lhb
+1165,1216545,2020-09-26,1965,0,Sunrisers Hyderabad,0,Kolkata Knight Riders,Khaleel Ahmed,942645,5143,lm,rhb
+1166,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Murali Vijay,237095,4343,ob,rhb
+1167,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Shane Watson,8180,4343,rfm,rhb
+1168,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Faf du Plessis,44828,4343,lb,rhb
+1169,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Ruturaj Gaikwad,1060380,4343,ob,rhb
+1170,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Kedar Jadhav,290716,4343,ob,rhb
+1171,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,MS Dhoni,28081,4343,rm,rhb
+1172,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Ravindra Jadeja,234675,4343,sla,lhb
+1173,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Sam Curran,662973,4343,lmf,lhb
+1174,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Piyush Chawla,32966,4343,lb,lhb
+1175,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Deepak Chahar,447261,4343,rm,rhb
+1176,1216539,2020-09-25,2439,0,Chennai Super Kings,0,Delhi Capitals,Josh Hazlewood,288284,4343,rfm,lhb
+1177,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Prithvi Shaw,1070168,4344,ob,rhb
+1178,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shikhar Dhawan,28235,4344,ob,lhb
+1179,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Rishabh Pant,931581,4344,,lhb
+1180,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shreyas Iyer,642519,4344,lbg,rhb
+1181,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Marcus Stoinis,325012,4344,rm,rhb
+1182,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Shimron Hetmyer,670025,4344,,lhb
+1183,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Axar Patel,554691,4344,sla,lhb
+1184,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Amit Mishra,31107,4344,lb,rhb
+1185,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Kagiso Rabada,550215,4344,rf,lhb
+1186,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Anrich Nortje,481979,4344,rf,rhb
+1187,1216539,2020-09-25,2439,0,Delhi Capitals,0,Chennai Super Kings,Avesh Khan,694211,4344,rfm,rhb
+1188,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,KL Rahul,422108,4342,,rhb
+1189,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mayank Agarwal,398438,4342,ob,rhb
+1190,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Nicholas Pooran,604302,4342,,lhb
+1191,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Glenn Maxwell,325026,4342,ob,rhb
+1192,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Karun Nair,398439,4342,ob,rhb
+1193,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,James Neesham,355269,4342,rmf,lhb
+1194,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Sarfaraz Khan,642525,4342,lb,rhb
+1195,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Mohammed Shami,481896,4342,rf,rhb
+1196,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Sheldon Cottrell,495551,4342,lfm,rhb
+1197,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Ravi Bishnoi,1175441,4342,lbg,rhb
+1198,1216510,2020-09-24,2439,0,Kings XI Punjab,0,Royal Challengers Bangalore,Murugan Ashwin,528067,4342,lbg,rhb
+1199,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Devdutt Padikkal,1119026,4340,ob,lhb
+1200,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Aaron Finch,5334,4340,sla,rhb
+1201,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Josh Philippe,1124282,4340,,rhb
+1202,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Virat Kohli,253802,4340,rm,rhb
+1203,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,AB de Villiers,44936,4340,rm,rhb
+1204,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Washington Sundar,719715,4340,ob,lhb
+1205,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Shivam Dube,714451,4340,rm,lhb
+1206,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Umesh Yadav,376116,4340,rf,rhb
+1207,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Navdeep Saini,700167,4340,rf,rhb
+1208,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Dale Steyn,47492,4340,rf,rhb
+1209,1216510,2020-09-24,2439,0,Royal Challengers Bangalore,0,Kings XI Punjab,Yuzvendra Chahal,430246,4340,lbg,rhb
+1210,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shubman Gill,1070173,4341,ob,rhb
+1211,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Sunil Narine,230558,4341,ob,lhb
+1212,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Dinesh Karthik,30045,4341,ob,rhb
+1213,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nitish Rana,604527,4341,ob,lhb
+1214,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Eoin Morgan,24598,4341,rm,lhb
+1215,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Andre Russell,276298,4341,rf,rhb
+1216,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Nikhil Naik,554700,4341,,rhb
+1217,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Pat Cummins,489889,4341,rf,rhb
+1218,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Shivam Mavi,1079848,4341,rfm,rhb
+1219,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Kuldeep Yadav,559235,4341,lws,lhb
+1220,1216508,2020-09-23,1965,0,Kolkata Knight Riders,0,Mumbai Indians,Sandeep Warrier,592735,4341,rm,rhb
+1221,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Quinton de Kock,379143,4346,,lhb
+1222,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rohit Sharma,34102,4346,ob,rhb
+1223,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Suryakumar Yadav,446507,4346,rm/ob,rhb
+1224,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Saurabh Tiwary,35390,4346,,lhb
+1225,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Hardik Pandya,625371,4346,rmf,rhb
+1226,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Kieron Pollard,230559,4346,rm,rhb
+1227,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Krunal Pandya,471342,4346,sla,lhb
+1228,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,James Pattinson,272465,4346,rfm,lhb
+1229,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Rahul Chahar,1064812,4346,lbg,rhb
+1230,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Trent Boult,277912,4346,lfm,rhb
+1231,1216508,2020-09-23,1965,0,Mumbai Indians,0,Kolkata Knight Riders,Jasprit Bumrah,625383,4346,rf,rhb
+1232,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Yashasvi Jaiswal,1151278,4345,lb,lhb
+1233,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Steven Smith,267192,4345,lbg,rhb
+1234,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Sanju Samson,425943,4345,,rhb
+1235,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,David Miller,321777,4345,ob,lhb
+1236,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Robin Uthappa,35582,4345,rm,rhb
+1237,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Rahul Tewatia,423838,4345,lb,lhb
+1238,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Riyan Parag,1079434,4345,lb,rhb
+1239,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Tom Curran,550235,4345,rfm,rhb
+1240,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Jofra Archer,669855,4345,rf,rhb
+1241,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Shreyas Gopal,344580,4345,lb,rhb
+1242,1216496,2020-09-22,848,0,Rajasthan Royals,0,Chennai Super Kings,Jaydev Unadkat,390484,4345,lm,rhb
+1243,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Murali Vijay,237095,4343,ob,rhb
+1244,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Shane Watson,8180,4343,rfm,rhb
+1245,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Faf du Plessis,44828,4343,lb,rhb
+1246,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Sam Curran,662973,4343,lmf,lhb
+1247,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Ruturaj Gaikwad,1060380,4343,ob,rhb
+1248,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Kedar Jadhav,290716,4343,ob,rhb
+1249,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,MS Dhoni,28081,4343,rm,rhb
+1250,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Ravindra Jadeja,234675,4343,sla,lhb
+1251,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Piyush Chawla,32966,4343,lb,lhb
+1252,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Deepak Chahar,447261,4343,rm,rhb
+1253,1216496,2020-09-22,848,0,Chennai Super Kings,0,Rajasthan Royals,Lungi Ngidi,542023,4343,rfm,rhb
+1254,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,David Warner,219889,5143,lb,lhb
+1255,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Jonny Bairstow,297433,5143,rm,rhb
+1256,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Manish Pandey,290630,5143,rm,rhb
+1257,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Priyam Garg,1070180,5143,rm,rhb
+1258,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Vijay Shankar,477021,5143,rm,rhb
+1259,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Abhishek Sharma,1070183,5143,sla,lhb
+1260,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Rashid Khan,793463,5143,lbg,rhb
+1261,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Bhuvneshwar Kumar,326016,5143,rm,rhb
+1262,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Sandeep Sharma,438362,5143,rm,rhb
+1263,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,Mitchell Marsh,272450,5143,rm,rhb
+1264,1216534,2020-09-21,2439,0,Sunrisers Hyderabad,0,Royal Challengers Bangalore,T Natarajan,802575,5143,lm,lhb
+1265,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Devdutt Padikkal,1119026,4340,ob,lhb
+1266,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Aaron Finch,5334,4340,sla,rhb
+1267,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Virat Kohli,253802,4340,rm,rhb
+1268,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,AB de Villiers,44936,4340,rm,rhb
+1269,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Shivam Dube,714451,4340,rm,lhb
+1270,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Josh Philippe,1124282,4340,,rhb
+1271,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Washington Sundar,719715,4340,ob,lhb
+1272,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Umesh Yadav,376116,4340,rf,rhb
+1273,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Navdeep Saini,700167,4340,rf,rhb
+1274,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Dale Steyn,47492,4340,rf,rhb
+1275,1216534,2020-09-21,2439,0,Royal Challengers Bangalore,0,Sunrisers Hyderabad,Yuzvendra Chahal,430246,4340,lbg,rhb
+1276,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Prithvi Shaw,1070168,4344,ob,rhb
+1277,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shikhar Dhawan,28235,4344,ob,lhb
+1278,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shimron Hetmyer,670025,4344,,lhb
+1279,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Shreyas Iyer,642519,4344,lbg,rhb
+1280,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Rishabh Pant,931581,4344,,lhb
+1281,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Marcus Stoinis,325012,4344,rm,rhb
+1282,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Axar Patel,554691,4344,sla,lhb
+1283,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Ravichandran Ashwin,26421,4344,ob,rhb
+1284,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Kagiso Rabada,550215,4344,rf,lhb
+1285,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Anrich Nortje,481979,4344,rf,rhb
+1286,1216493,2020-09-20,2439,0,Delhi Capitals,0,Kings XI Punjab,Mohit Sharma,537119,4344,rm,rhb
+1287,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,KL Rahul,422108,4342,,rhb
+1288,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mayank Agarwal,398438,4342,ob,rhb
+1289,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Karun Nair,398439,4342,ob,rhb
+1290,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Nicholas Pooran,604302,4342,,lhb
+1291,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Glenn Maxwell,325026,4342,ob,rhb
+1292,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Sarfaraz Khan,642525,4342,lb,rhb
+1293,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Krishnappa Gowtham,424377,4342,ob,rhb
+1294,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Chris Jordan,288992,4342,rfm,rhb
+1295,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Mohammed Shami,481896,4342,rf,rhb
+1296,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Sheldon Cottrell,495551,4342,lfm,rhb
+1297,1216493,2020-09-20,2439,0,Kings XI Punjab,0,Delhi Capitals,Ravi Bishnoi,1175441,4342,lbg,rhb
+1298,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Rohit Sharma,34102,4346,ob,rhb
+1299,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Quinton de Kock,379143,4346,,lhb
+1300,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Suryakumar Yadav,446507,4346,rm/ob,rhb
+1301,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Saurabh Tiwary,35390,4346,,lhb
+1302,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Hardik Pandya,625371,4346,rmf,rhb
+1303,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Kieron Pollard,230559,4346,rm,rhb
+1304,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Krunal Pandya,471342,4346,sla,lhb
+1305,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,James Pattinson,272465,4346,rfm,lhb
+1306,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Rahul Chahar,1064812,4346,lbg,rhb
+1307,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Trent Boult,277912,4346,lfm,rhb
+1308,1216492,2020-09-19,1965,0,Mumbai Indians,0,Chennai Super Kings,Jasprit Bumrah,625383,4346,rf,rhb
+1309,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Murali Vijay,237095,4343,ob,rhb
+1310,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Shane Watson,8180,4343,rfm,rhb
+1311,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Faf du Plessis,44828,4343,lb,rhb
+1312,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Ambati Rayudu,33141,4343,ob,rhb
+1313,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Ravindra Jadeja,234675,4343,sla,lhb
+1314,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Sam Curran,662973,4343,lmf,lhb
+1315,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,MS Dhoni,28081,4343,rm,rhb
+1316,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Kedar Jadhav,290716,4343,ob,rhb
+1317,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Piyush Chawla,32966,4343,lb,lhb
+1318,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Deepak Chahar,447261,4343,rm,rhb
+1319,1216492,2020-09-19,1965,0,Chennai Super Kings,0,Mumbai Indians,Lungi Ngidi,542023,4343,rfm,rhb
